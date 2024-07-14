@@ -56,3 +56,8 @@ This project showcases the process of building a predictive model using linear r
 - The dataset used in this project is sourced from Kaggle: California Housing Prices.
 - Thanks to the contributors of various Python libraries that made this project possible, including pandas, scikit-learn, and matplotlib.
 
+</br>
+
+https://github.com/user-attachments/assets/3e692ecf-6ccc-4bb1-9b3e-51b380bd181f
+
+
